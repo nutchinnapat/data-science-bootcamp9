@@ -1,6 +1,6 @@
 # Data Science Bootcamp Batch 9
 
-I'm learning data science bootcamp. There are 10 sprints in the program.
+Greetings! I recently completed an immersive Data Science Bootcamp, consisting of 10 comprehensive sprints. 
 
 ## First part of the program
 
@@ -20,5 +20,4 @@ I'm learning data science bootcamp. There are 10 sprints in the program.
 - Essential Python for Data Analyst
 - Dashboard with Looker Studio
 
-If you would like to know more about me, let keep in touch with me.!
-Contact: chinnapat.wattana@gmail.com
+For further information or to connect with me, feel free to reach out at chinnapat.wattana@gmail.com
