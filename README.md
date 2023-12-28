@@ -1,6 +1,6 @@
 # Data Science Bootcamp Batch 9
 
-Greetings! 
+Greetings! GIT PULL
 I recently completed an immersive Data Science Bootcamp, DataRockie, consisting of 10 comprehensive sprints designed to provide a thorough understanding of data science principles and tools.
 
 ## First part of the program
