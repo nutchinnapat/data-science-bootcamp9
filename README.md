@@ -10,7 +10,7 @@ I recently completed an immersive Data Science Bootcamp, DataRockie, consisting 
 - SQL databases
 - R programming
 - Data Transformation
-- Data Visualzation
+- Data Visualization
 
 ## Second part of the program
 
