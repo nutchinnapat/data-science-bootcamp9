@@ -21,4 +21,4 @@ I recently completed an immersive Data Science Bootcamp, DataRockie, consisting 
 - Essential Python for Data Analyst
 - Dashboard with Looker Studio
 
-For further information or to connect with me, feel free to reach out at chinnapat.wattana@gmail.com
+For further information or to connect with me, feel free to reach out at chinnapat.w@hotmail.com
