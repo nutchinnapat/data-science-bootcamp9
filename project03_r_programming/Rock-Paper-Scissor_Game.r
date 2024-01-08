@@ -67,3 +67,5 @@ while (TRUE) {
 print(paste(name, "'s final score is:", player_score))
 print(paste("Computer's final score is:", computer_score))
 }
+
+game()
