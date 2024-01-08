@@ -97,3 +97,5 @@ pizza_chatbot <- function() {
     print("Order cancelled. Feel free to reorder when you're ready. :)")
   }
 }
+
+pizza_chatbot()
