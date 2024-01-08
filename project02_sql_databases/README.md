@@ -1,6 +1,11 @@
 # Project 02 : SQL Databases
 #### This project focuses on foundational SQL concepts for efficient database interaction and data analysis.
 
+**Project:**
+---
+- Restaurant Database Analysis:  
+>Explores order data, customer information, and menu items using SQL queries to answer key business questions
+
 **Key Topics Covered:**
 ---
 - Database Creation and Table Structure:
@@ -13,8 +18,3 @@
 >Calculating summary statistics (SUM, AVG, COUNT, MIN, MAX) to gain insights from data
 - Joining Tables:
 >Combining data from multiple tables using different join types (INNER, LEFT, RIGHT, FULL)
-
-**Project:**
----
-- Restaurant Database Analysis:  
->Explores order data, customer information, and menu items using SQL queries to answer key business questions
