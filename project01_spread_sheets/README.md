@@ -1,6 +1,6 @@
 # Project 01 : Google Sheets
 
-### .pdf files for each project are available for reference.
+#### Detailed project descriptions and code examples can be found within the respective .pdf files.
 ---
 - **Named Function: Temperature Conversion (from Celsius to Fahrenheit)**
 >Demonstrates the creation and application of a custom function to convert Celsius temperatures to Fahrenheit.
