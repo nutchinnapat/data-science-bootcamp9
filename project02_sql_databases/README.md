@@ -6,7 +6,7 @@
 - Database Creation and Table Structure:
 >Creating tables with appropriate data types and constraints and establishing relationships between tables using primary and foreign keys (PK an FK)
 - Data Insertion and Manipulation:
->INSERT, UPDATE, and DELETE
+>CRUD Operations
 - Data Retrieval and Exploration:
 >Retrieving specific data using SELECT statements with various clauses (WHERE, ORDER BY, GROUP BY, etc.)
 - Aggregate Functions:
