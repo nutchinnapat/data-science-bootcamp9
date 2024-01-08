@@ -14,7 +14,7 @@
 =ArrayFormula(REGEXEXTRACT(A4:A8,"Date of Birth (\d{2} [A-Z][a-z]+ \d{4})"))	
 
 // Age	
-=ArrayFormula(DATEDIF(F4:F8,TODAY(), ""Y"") & "" Years "" & DATEDIF(F4:F8,TODAY(), ""YM"") & "" Months "" & DATEDIF(F4:F8,TODAY(), ""YD"") & "" Days"")
+=ArrayFormula(DATEDIF(F4:F8,TODAY(), "Y") & " Years " & DATEDIF(F4:F8,TODAY(), "YM") & " Months " & DATEDIF(F4:F8,TODAY(), "YD") & " Days")
 
 // Address
 =ArrayFormula(REGEXEXTRACT(A4:A8, "Address (\d+ [A-Za-z ]+)"))	
