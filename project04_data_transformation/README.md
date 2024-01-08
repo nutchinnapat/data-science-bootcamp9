@@ -1,11 +1,12 @@
 # Project 04 : Data Transformation
-#### Delve into data transformation techniques using R programming language. It encompasses database interaction and dataset exploration
+#### This project explores various data transformation techniques using R, focusing on database connections and dataset analysis.
 
 **Project:**
 ---
 - Database Connection with R: Restaurant Pizza
->- Establishes a connection to a database containing pizza restaurant information.
->- Demonstrates R's ability to query, retrieve, and manipulate data from external databases.
+>- Connect to a PostgreSQL database hosted on ElephantSQL
+>- Create dataframes and write tables into the database
+>- Perform queries to answer specific questions about the data
 >>Potential objectives:
 >>- Analyze sales trends across different pizza types.
 >>- Identify customer preferences based on order history.
@@ -13,8 +14,10 @@
 
 - Dataset and Questions with R: nycflights13
 >- Explores the nycflights13 dataset, which provides details on flights departing from New York City in 2013.
->- Employs R to uncover insights and answer specific questions about the data.
->>- Potential questions:
->>- Wh
->>- Wha
->>- Ho
+>- Deploys R to uncover insights and answer specific questions about the data.
+>>Utilizes the nycflights13 dataset to investigate a series of questions:
+>>- Q1: [Top 15] Average Delay Time for Each Airline
+>>- Q2: [Top 10] Flight Frequency and Number Across Different Seasons
+>>- Q3: Top 15 Routes by Total Number of Flights (Wide-Body and Narrow-Body)
+>>- Q4: Average Arrival Delay Comparison for Flights with and without Visibility Data
+>>- Q5: Most Popular Origin Airport During Summer Months
